@@ -1,0 +1,25 @@
+{
+  "name": "mybasecss",
+  "version": "0.9.0",
+  "description": "Base setup for a CSS structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timokoola/mybasecss.git"
+  },
+  "author": "Timo Koola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timokoola/mybasecss/issues"
+  },
+  "homepage": "https://github.com/timokoola/mybasecss#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^4.1.0",
+    "sass": "^1.32.2"
+  }
+}
